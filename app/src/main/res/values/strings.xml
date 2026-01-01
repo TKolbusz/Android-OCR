@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OCR</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="ocr_result_title">OCR Result</string>
+    <string name="copy_text">Copy</string>
+    <string name="close">Close</string>
+    <string name="processing">Processing image…</string>
+    <string name="error_camera_permission">Camera permission is required</string>
+    <string name="error_ocr_failed">Failed to process image</string>
+    <string name="text_copied">Text copied to clipboard</string>
+</resources>
